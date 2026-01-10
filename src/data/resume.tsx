@@ -2,16 +2,16 @@ import { Icons } from "@/components/icons";
 import { HomeIcon, NotebookIcon, SparklesIcon } from "lucide-react";
 
 export const DATA = {
-  name: "Hailey Cheng",
-  initials: "HC",
-  url: "https://heilcheng.github.io",
-  location: "Hong Kong",
-  locationLink: "https://www.google.com/maps/place/hongkong",
+  name: "Rohith Kumar Reddy",
+  initials: "RKR",
+  url: "https://rohithkumar27.github.io",
+  location: "Massachusetts, USA",
+  locationLink: "https://www.google.com/maps/place/massachusetts",
   description:
-    "Math junior with research interests in Mathematical Biology and AI for biomedicine.",
+    "Master's in Computer Science @ UMass Amherst | Software Engineer specializing in Backend, Cloud, Applied AI & Privacy",
   summary:
-    "I'm a Homo sapiens born and raised in Hong Kong. I also spent a year studying in the UK and semesters in the US and France, experiences that opened my mind and shaped how I see the world.\n\nBefore university, I was that kid obsessed with biology and completely hooked on the Olympiad. I loved exploring the mysteries of life. But after countless hours pipetting in the lab, I started to feel burnt out. I realized I loved biology, just not the endless wet lab work.\n\nAt the same time, I discovered the beauty and speed of simulations, where you can explore complex systems without spilling a single drop. One day, I had a lightbulb moment: \"What if I could use math and code to solve big biology questions instead?\" That idea completely changed my path.\n\nAnd so, here I am, merging my love for biology with the power of math and computation.\n\nWhen I'm not coding or solving equations, you'll find me kayaking, playing tennis, or on a mission to hunt down the best ramen and handmade pasta in Hong Kong (I might have tried them all by now). And when it comes to boba, it's always \"No.1\" at Comebuytea.",
-  avatarUrl: "/me.jpeg",
+    "I build scalable backend systems, cloud-native services, and production-grade AI applications, with a strong interest in privacy-aware system design.\n\nCurrently pursuing Master's in Computer Science at UMass Amherst. Previously worked as a Software Development Engineer at Publicis Sapient (Lloyds Banking Group) and as a Backend Founding Engineer at CREW, SKDIV Industries.\n\nI enjoy working at the intersection of systems, data, and real-world impact. My work spans backend & distributed systems, cloud infrastructure, applied AI/GenAI, and privacy & security research.\n\nI'm deeply interested in how large-scale systems and AI applications handle user data, having conducted research on legal document processing and built AI-assisted reporting systems for enterprise banking users.",
+  avatarUrl: "/rohith.jpg",
 
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -19,25 +19,25 @@ export const DATA = {
     { href: "/showcase", icon: SparklesIcon, label: "Showcase" },
   ],
   contact: {
-    email: "haileycheng@proton.me",
-    tel: "+852-XXX-XXX-XXX",
+    email: "rohit.tumati@gmail.com",
+    tel: "+1-413-425-3300",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/heilcheng",
+        url: "https://github.com/rohithkumar27",
         icon: Icons.github,
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://linkedin.com/in/heilcheng",
+        url: "https://www.linkedin.com/in/rohithkumar27/",
         icon: Icons.linkedin,
         navbar: true,
       },
 
       email: {
         name: "Send Email",
-        url: "mailto:haileycheng@proton.me",
+        url: "mailto:rohit.tumati@gmail.com",
         icon: Icons.email,
         navbar: false,
       },
@@ -46,245 +46,239 @@ export const DATA = {
 
   technicalExperience: [
     {
-      company: "Cognos Labs",
-      href: "https://cognos-lab.com",
+      company: "Publicis Sapient | Lloyds Banking Group",
+      href: "https://www.publicissapient.com",
       badges: [],
-      location: "Hong Kong",
-      title: "Member of Technical Staff",
-      logoUrl: "/cognoslabs.jpeg",
-      start: "January 2026",
-      end: "Present",
+      location: "Bengaluru, India",
+      title: "Software Development Engineer",
+      logoUrl: "/publicis.jpeg",
+      start: "Oct 2023",
+      end: "Aug 2025",
       bullets: [
-        "Builds next-generation neurorehabilitation systems by combining multimodal sensing, adaptive AI, and neuroscience-informed design."
+        "Built responsive UI interfaces in React using custom hooks and state management, improving usability and maintainability across features",
+        "Designed and implemented backend microservices for the Strategic Pricing Engine and OKYC workflows supporting 1M+ business users in regulated production banking environments",
+        "Implemented robust relational database schemas with indexes, constraints using Hibernate/JPA, ensuring data consistency and low-latency access across microservices",
+        "Developed AI-assisted reporting functionality using Python, Gemini, and SQL, enabling business users to self-serve insights and reducing report generation time by 40%"
       ],
     },
     {
-      company: "Google DeepMind",
-      href: "https://deepmind.com",
+      company: "CREW, SKDIV Industries",
+      href: "https://crewtm.com/",
       badges: [],
       location: "Remote",
-      title: "Software Developer\nGoogle Summer of Code Participant",
-      logoUrl: "/deepmind.jpg",
-      start: "May 2025",
-      end: "Present",
+      title: "Backend Founding Engineer",
+      logoUrl: "/crew.jpeg",
+      start: "Aug 2022",
+      end: "Sep 2023",
       bullets: [
-        "Engineered a scalable model evaluation platform using Python, PyTorch, and Docker, which improved benchmarking efficiency by 15% and supported parallel execution across 5+ academic test suites (e.g., MMLU, HumanEval)",
-        "Designed and deployed a fully automated CI/CD pipeline with GitHub Actions to enforce 95% unit test coverage, guaranteeing reproducible, production-ready builds for a system"
+        "Co-founded social media platform for gaming communities and developed backend services with Node.js, Redis, and Kafka, supporting matchmaking, chat, and community features for 100k+ players",
+        "Optimized event-driven microservices, improving real-time chat and notification throughput by 20%",
+        "Seamlessly integrated ML recommendation services into production, enhancing matchmaking accuracy by 15%"
       ],
     },
     {
-      company: "City University of Hong Kong",
-      href: "https://www.cityu.edu.hk",
+      company: "Publicis Sapient",
+      href: "https://www.publicissapient.com",
       badges: [],
-      location: "Hong Kong",
-      title: "Undergraduate Researcher",
-      logoUrl: "/cityuhk.jpg",
-      start: "September 2024",
-      end: "Present",
+      location: "Bengaluru, India",
+      title: "Software Developer Intern",
+      logoUrl: "/publicis.jpeg",
+      start: "May 2022",
+      end: "Jul 2022",
       bullets: [
-        "Thesis: Hybrid ODE-Neural Network for Personalized Treatment Prediction",
-        "Engineered a multi-task deep learning model in Python and PyTorch as a computationally efficient surrogate for a complex 15-state ODE system, reducing prediction latency from hours to milliseconds",
-        "Designed the neural network (98% AUC, 91.7% accuracy) and developed an end-to-end MLOps pipeline for data generation (N=1,000), training, and validation, achieving an R² of 0.78 on regression tasks"
+        "Built a cloud-based recruitment automation platform, reducing hiring cycle by 40%, leveraging AI-driven scheduling and candidate ranking algorithms",
+        "Developed scalable backend with Django + PostgreSQL, integrating Microsoft Graph API and data pipelines for real-time candidate analytics, achieving 99.9% uptime on AWS"
       ],
     },
   ],
   education: [
     {
-      school: "City University of Hong Kong",
-      href: "https://www.cityu.edu.hk",
-      degree: "Bachelor of Science in Computing Mathematics (GREAT Stream), Minor in Computer Science",
-      logoUrl: "/cityuhk.jpg",
-      start: "2023",
-      end: "2027",
+      school: "University of Massachusetts Amherst",
+      href: "https://www.umass.edu",
+      degree: "Master of Science in Computer Science",
+      logoUrl: "/umass.jpeg",
+      start: "Sep 2025",
+      end: "May 2027",
     },
     {
-      school: "University of California, Berkeley",
-      href: "https://berkeley.edu",
-      degree: "Exchange Student, Mathematics",
-      logoUrl: "/Berkeley.png",
-      start: "2024",
-      end: "2024",
-    },
-    {
-      school: "Pearson Edexcel A-Levels",
-      href: "https://qualifications.pearson.com",
-      degree: "4A* in Mathematics, Biology, Economics, Chinese\nReceived offers from HKU, CUHK, KCL and Manchester",
-      logoUrl: "/pearson.jpeg",
-      start: "2022",
-      end: "2023",
+      school: "Indian Institute of Technology Gandhinagar",
+      href: "https://iitgn.ac.in",
+      degree: "Bachelor of Technology in Computer Science and Engineering",
+      logoUrl: "/iitgn.jpeg",
+      start: "Aug 2019",
+      end: "May 2023",
     },
   ],
   projects: [
     {
-      title: "MEQ-Bench",
-      href: "https://github.com/heilcheng/MEQ-Bench",
-      dates: "2024 - Present",
+      title: "Slide Scribe",
+      href: "https://github.com/SuyashManiyar/HackUMass_codebase",
+      dates: "2024",
       active: true,
       description:
-        "The first benchmark designed to evaluate an LLM's ability to generate audience-adaptive medical explanations for diverse stakeholders, including physicians, nurses, and patients.",
+        "HackUMass XIII Winner - Accessibility-focused mobile app for visually impaired students with real-time Q&A over classroom slides using WebRTC, OCR + LLM-based summarization.",
       technologies: [
-        "Python",
-        "LLM",
-        "Medical AI",
-        "Benchmarking",
-      ],
-      links: [
-        {
-          type: "Source",
-          href: "https://github.com/heilcheng/MEQ-Bench",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "",
-      video: "",
-    },
-    {
-      title: "Gemma Benchmark Suite",
-      href: "https://github.com/heilcheng/gemma-benchmark",
-      dates: "2024 - Present",
-      active: true,
-      description:
-        "An evaluation suite for Google's Gemma models across academic LLM benchmarks, with quantization support and efficiency profiling.",
-      technologies: [
-        "Python",
-        "LLM",
-        "Benchmarking",
-        "Quantization",
-      ],
-      links: [
-        {
-          type: "Source",
-          href: "https://github.com/heilcheng/gemma-benchmark",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "",
-      video: "",
-    },
-    {
-      title: "Craftscape HK",
-      href: "https://i.imgur.com/8z4eENj.gif",
-      dates: "2025",
-      active: true,
-      description:
-        "AI-powered platform preserving Hong Kong's disappearing traditional crafts through AR experiences, and AI-assisted custom design creation with real-world artisans to bring ideas to life.",
-      technologies: [
-        "React",
-        "NestJS",
-        "Google Gemini",
-        "AR",
-      ],
-      links: [
-        {
-          type: "Source",
-          href: "https://github.com/gracetyy/CraftscapeHK",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "https://i.imgur.com/8z4eENj.gif",
-      video: "",
-    },
-    {
-      title: "Truth or Dare (Cantonese)",
-      href: "https://i.imgur.com/GVjLPbi.gif",
-      dates: "2024 - Present",
-      active: true,
-      description:
-        "A Truth or Dare question generator web app built in Cantonese, using React for webapp and React Native for Apps.",
-      technologies: [
-        "React",
         "React Native",
-        "JavaScript",
-        "Cantonese",
+        "WebRTC",
+        "OCR",
+        "LLM",
+        "Mobile",
       ],
       links: [
         {
           type: "Source",
-          href: "https://github.com/heilcheng/Truth-or-Dare-Canto",
+          href: "https://github.com/SuyashManiyar/HackUMass_codebase",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "https://i.imgur.com/GVjLPbi.gif",
+      image: "",
+      video: "",
+    },
+    {
+      title: "Meta-Enriched RAG for Legal LLMs",
+      href: "https://github.com/SuyashManiyar/meta-enriched-rag-for-legal-llms",
+      dates: "2024",
+      active: true,
+      description:
+        "Research-grade Retrieval-Augmented Generation system with metadata-enriched RAG pipeline for legal documents. Improved retrieval span recall by 30.6% and fine-tuned LLaMA 3.2 (3B) using DPO.",
+      technologies: [
+        "Python",
+        "LLaMA",
+        "RAG",
+        "DPO",
+        "Legal AI",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/SuyashManiyar/meta-enriched-rag-for-legal-llms",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "",
+    },
+    {
+      title: "UniTrade",
+      href: "https://github.com/rohithkumar27/UniTrade-Campus-Marketplace",
+      dates: "2024",
+      active: true,
+      description:
+        "Campus-exclusive marketplace platform built with Next.js, TypeScript, Node.js, PostgreSQL. Features real-time auctions, chat, notifications via Socket.IO, and AI-powered search using Google Gemini.",
+      technologies: [
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL",
+        "Socket.IO",
+        "Google Gemini",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/rohithkumar27/UniTrade-Campus-Marketplace",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "",
+    },
+    {
+      title: "AI-Assisted Reporting (Industry Project)",
+      href: "#",
+      dates: "2023-2024",
+      active: false,
+      description:
+        "LLM-powered analytics for enterprise banking users. Built AI-assisted reporting using Python + SQL + LLMs, reduced report generation time by 40% in production.",
+      technologies: [
+        "Python",
+        "SQL",
+        "LLM",
+        "Enterprise",
+        "Banking",
+      ],
+      links: [],
+      image: "",
       video: "",
     },
   ],
   books: [
     {
-      theme: "Political Philosophy & Social Theory",
+      theme: "Backend & Distributed Systems",
       books: [
         {
-          title: "The Social Contract",
-          author: "Jean-Jacques Rousseau",
+          title: "Designing Data-Intensive Applications",
+          author: "Martin Kleppmann",
           number: 1,
         },
         {
-          title: "On Liberty",
-          author: "John Stuart Mill",
+          title: "Building Microservices",
+          author: "Sam Newman",
           number: 2,
         },
         {
-          title: "Distinction: A Social Critique of the Judgement of Taste",
-          author: "Pierre Bourdieu",
+          title: "System Design Interview",
+          author: "Alex Xu",
           number: 3,
         },
+      ],
+    },
+    {
+      theme: "Cloud & Infrastructure",
+      books: [
         {
-          title: "The Spirit of the Laws",
-          author: "Montesquieu",
+          title: "Cloud Native Patterns",
+          author: "Cornelia Davis",
           number: 4,
         },
-      ],
-    },
-    {
-      theme: "Contemporary Philosophy",
-      books: [
         {
-          title: "Agonie des Eros",
-          author: "Byung-Chul Han",
+          title: "Kubernetes in Action",
+          author: "Marko Lukša",
           number: 5,
         },
+      ],
+    },
+    {
+      theme: "AI & Machine Learning",
+      books: [
         {
-          title: "Thus Spoke Zarathustra",
-          author: "Friedrich Nietzsche",
+          title: "Hands-On Machine Learning",
+          author: "Aurélien Géron",
           number: 6,
         },
-      ],
-    },
-    {
-      theme: "History & Global Affairs",
-      books: [
         {
-          title: "A Concise History of Hong Kong",
-          author: "John M. Carroll",
+          title: "Deep Learning",
+          author: "Ian Goodfellow",
           number: 7,
         },
+      ],
+    },
+    {
+      theme: "Privacy & Security",
+      books: [
         {
-          title: "Understanding Global Conflict and Cooperation",
-          author: "David A. Welch and Joseph S. Nye, Jr.",
+          title: "The Age of Surveillance Capitalism",
+          author: "Shoshana Zuboff",
           number: 8,
         },
-      ],
-    },
-    {
-      theme: "Digital Life & Privacy",
-      books: [
         {
-          title: "The Art of Invisibility",
-          author: "Kevin Mitnick",
+          title: "Privacy Engineering",
+          author: "Michelle Finneran Dennedy",
           number: 9,
         },
-        {
-          title: "Digital Minimalism",
-          author: "Cal Newport",
-          number: 10,
-        },
       ],
     },
     {
-      theme: "Memoir & Personal Reflections",
+      theme: "Software Engineering",
       books: [
         {
-          title: "The Watching Brief",
-          author: "Margaret Ng Ngoi Yee",
+          title: "Clean Code",
+          author: "Robert C. Martin",
+          number: 10,
+        },
+        {
+          title: "The Pragmatic Programmer",
+          author: "David Thomas & Andrew Hunt",
           number: 11,
         },
       ],

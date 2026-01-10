@@ -1,6 +1,10 @@
-import Navbar from "@/components/navbar";
+import FloatingContact from "@/components/floating-contact";
 import { ThemeProvider } from "@/components/theme-provider";
 import { TooltipProvider } from "@/components/ui/tooltip";
+import dynamic from "next/dynamic";
+
+const SpaceRevolvingBackground = dynamic(() => import("@/components/space-revolving-background").then(mod => mod.SpaceRevolvingBackground), { ssr: false });
+const RevolvingContentWrapper = dynamic(() => import("@/components/revolving-content-wrapper").then(mod => mod.RevolvingContentWrapper), { ssr: false });
 
 import { DATA } from "@/data/resume";
 import { cn } from "@/lib/utils";
@@ -59,16 +63,19 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <body
         className={cn(
-          "min-h-screen bg-background font-sans antialiased",
+          "min-h-screen bg-background font-sans antialiased overflow-x-hidden",
           fontSans.variable
         )}
       >
-        <ThemeProvider attribute="class" defaultTheme="light">
+        <ThemeProvider attribute="class" defaultTheme="dark">
           <TooltipProvider delayDuration={0}>
-            <div className="max-w-2xl mx-auto px-container-padding">
-            {children}
-            </div>
-            <Navbar />
+            <SpaceRevolvingBackground />
+            <RevolvingContentWrapper>
+              <div className="max-w-2xl mx-auto px-container-padding relative z-10">
+                {children}
+              </div>
+            </RevolvingContentWrapper>
+            <FloatingContact />
           </TooltipProvider>
         </ThemeProvider>
       </body>
