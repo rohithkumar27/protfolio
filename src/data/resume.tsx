@@ -8,9 +8,9 @@ export const DATA = {
   location: "Massachusetts, USA",
   locationLink: "https://www.google.com/maps/place/massachusetts",
   description:
-    "Master's in Computer Science @ UMass Amherst | Software Engineer specializing in Backend, Cloud, Applied AI & Privacy",
+    "Master's in Computer Science @ UMass Amherst | Software Engineer specializing in Backend, Cloud, Applied AI & Security of Large-Scale Systems",
   summary:
-    "I build scalable backend systems, cloud-native services, and production-grade AI applications, with a strong interest in privacy-aware system design.\n\nCurrently pursuing Master's in Computer Science at UMass Amherst. Previously worked as a Software Development Engineer at Publicis Sapient (Lloyds Banking Group) and as a Backend Founding Engineer at CREW, SKDIV Industries.\n\nI enjoy working at the intersection of systems, data, and real-world impact. My work spans backend & distributed systems, cloud infrastructure, applied AI/GenAI, and privacy & security research.\n\nI'm deeply interested in how large-scale systems and AI applications handle user data, having conducted research on legal document processing and built AI-assisted reporting systems for enterprise banking users.",
+    "I build scalable backend systems, cloud-native services, and production-grade AI applications, with research experience in web privacy and domain-specific AI.\n\nCurrently pursuing Master's in Computer Science at UMass Amherst, where I'm exploring the security side of large-scale systems and AI. Previously worked as a Software Development Engineer at Publicis Sapient supporting 1M+ users in production banking environments.\n\nI enjoy working at the intersection of systems, data, and real-world impact. My work spans backend & distributed systems, cloud infrastructure, applied AI/GenAI, and privacy research.\n\nMy research includes building RAG systems for legal documents with DPO fine-tuning (30.6% improvement in retrieval accuracy) and studying web privacy ecosystems, consent mechanisms, and tracking behaviors. Currently exploring how security challenges manifest in distributed AI systems.",
   avatarUrl: "/rohith.jpg",
 
   navbar: [
@@ -46,7 +46,7 @@ export const DATA = {
 
   technicalExperience: [
     {
-      company: "Publicis Sapient | Lloyds Banking Group",
+      company: "Publicis Sapient",
       href: "https://www.publicissapient.com",
       badges: [],
       location: "Bengaluru, India",
@@ -55,10 +55,12 @@ export const DATA = {
       start: "Oct 2023",
       end: "Aug 2025",
       bullets: [
-        "Built responsive UI interfaces in React using custom hooks and state management, improving usability and maintainability across features",
-        "Designed and implemented backend microservices for the Strategic Pricing Engine and OKYC workflows supporting 1M+ business users in regulated production banking environments",
-        "Implemented robust relational database schemas with indexes, constraints using Hibernate/JPA, ensuring data consistency and low-latency access across microservices",
-        "Developed AI-assisted reporting functionality using Python, Gemini, and SQL, enabling business users to self-serve insights and reducing report generation time by 40%"
+        "Built and shipped production-grade Python microservices supporting mission-critical pricing and identity verification systems used by 1M+ users",
+        "Designed FastAPI-style REST APIs, relational schemas, and transactional workflows optimized for low latency and high throughput",
+        "Developed TypeScript + React interfaces for internal and client-facing tools, collaborating closely with backend and product teams",
+        "Implemented event-driven architectures (Kafka) to decouple services and improve system scalability under peak load",
+        "Built AI-assisted analytics services using Python and NLP to extract insights from operational data, enabling early anomaly detection",
+        "Owned features end-to-end—from design and implementation to deployment, monitoring, and production support in regulated environments"
       ],
     },
     {
@@ -71,7 +73,7 @@ export const DATA = {
       start: "Aug 2022",
       end: "Sep 2023",
       bullets: [
-        "Co-founded social media platform for gaming communities and developed backend services with Node.js, Redis, and Kafka, supporting matchmaking, chat, and community features for 100k+ players",
+        "Co-founded social media platform for gaming communities and developed backend services with Node.js, Redis, and Kafka, supporting matchmaking, chat, and community features",
         "Optimized event-driven microservices, improving real-time chat and notification throughput by 20%",
         "Seamlessly integrated ML recommendation services into production, enhancing matchmaking accuracy by 15%"
       ],
@@ -86,8 +88,8 @@ export const DATA = {
       start: "May 2022",
       end: "Jul 2022",
       bullets: [
-        "Built a cloud-based recruitment automation platform, reducing hiring cycle by 40%, leveraging AI-driven scheduling and candidate ranking algorithms",
-        "Developed scalable backend with Django + PostgreSQL, integrating Microsoft Graph API and data pipelines for real-time candidate analytics, achieving 99.9% uptime on AWS"
+        "Built a full-stack recruitment automation platform using Django REST, PostgreSQL, and React, reducing hiring cycle time by 40%",
+        "Deployed services on AWS, gaining hands-on experience with autoscaling, monitoring, and production cloud systems"
       ],
     },
   ],
@@ -111,23 +113,25 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Slide Scribe",
-      href: "https://github.com/SuyashManiyar/HackUMass_codebase",
-      dates: "2024",
+      title: "Meta-Enriched RAG for Legal LLMs",
+      href: "https://github.com/SuyashManiyar/meta-enriched-rag-for-legal-llms",
+      dates: "Aug 2024 - May 2025",
       active: true,
       description:
-        "HackUMass XIII Winner - Accessibility-focused mobile app for visually impaired students with real-time Q&A over classroom slides using WebRTC, OCR + LLM-based summarization.",
+        "Designed a metadata-enriched Retrieval-Augmented Generation (RAG) system improving answer span recall by up to 30.6%. Integrated LLMs via APIs, prompt orchestration, and hybrid dense+sparse retrieval pipelines. Fine-tuned LLaMA 3.2 (3B) using DPO for domain-specific legal reasoning tasks.",
       technologies: [
-        "React Native",
-        "WebRTC",
-        "OCR",
-        "LLM",
-        "Mobile",
+        "Python",
+        "LLaMA 3.2",
+        "RAG",
+        "DPO",
+        "Legal AI",
+        "PyTorch",
+        "Hugging Face"
       ],
       links: [
         {
           type: "Source",
-          href: "https://github.com/SuyashManiyar/HackUMass_codebase",
+          href: "https://github.com/SuyashManiyar/meta-enriched-rag-for-legal-llms",
           icon: <Icons.github className="size-3" />,
         },
       ],
@@ -135,23 +139,24 @@ export const DATA = {
       video: "",
     },
     {
-      title: "Meta-Enriched RAG for Legal LLMs",
-      href: "https://github.com/SuyashManiyar/meta-enriched-rag-for-legal-llms",
-      dates: "2024",
+      title: "Slide Scribe",
+      href: "https://github.com/SuyashManiyar/HackUMass_codebase",
+      dates: "2025",
       active: true,
       description:
-        "Research-grade Retrieval-Augmented Generation system with metadata-enriched RAG pipeline for legal documents. Improved retrieval span recall by 30.6% and fine-tuned LLaMA 3.2 (3B) using DPO.",
+        "HackUMass XIII Winner - Accessibility-focused mobile app for visually impaired students with real-time Q&A over classroom slides using WebRTC, OCR + LLM-based summarization. Selected among 300+ teams.",
       technologies: [
-        "Python",
-        "LLaMA",
-        "RAG",
-        "DPO",
-        "Legal AI",
+        "React Native",
+        "WebRTC",
+        "OCR",
+        "LLM",
+        "Mobile",
+        "Accessibility"
       ],
       links: [
         {
           type: "Source",
-          href: "https://github.com/SuyashManiyar/meta-enriched-rag-for-legal-llms",
+          href: "https://github.com/SuyashManiyar/HackUMass_codebase",
           icon: <Icons.github className="size-3" />,
         },
       ],
@@ -184,18 +189,19 @@ export const DATA = {
       video: "",
     },
     {
-      title: "AI-Assisted Reporting (Industry Project)",
+      title: "Cookie Privacy Analysis",
       href: "#",
       dates: "2023-2024",
-      active: false,
+      active: true,
       description:
-        "LLM-powered analytics for enterprise banking users. Built AI-assisted reporting using Python + SQL + LLMs, reduced report generation time by 40% in production.",
+        "Research project analyzing web privacy ecosystems and consent mechanisms. Built automated tools to study consent flows, dark patterns, and tracking behaviors across websites to understand user privacy interactions.",
       technologies: [
         "Python",
-        "SQL",
-        "LLM",
-        "Enterprise",
-        "Banking",
+        "Web Scraping",
+        "Privacy Analysis",
+        "Consent Mechanisms",
+        "Data Analysis",
+        "Research"
       ],
       links: [],
       image: "",
