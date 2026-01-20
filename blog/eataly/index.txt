@@ -1,0 +1,140 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+6:I[4858,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"ThemeProvider"]
+7:I[9502,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"TooltipProvider"]
+8:"$Sreact.suspense"
+9:I[912,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"BailoutToCSR"]
+a:I[9736,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"SpaceRevolvingBackground",1]
+b:I[6428,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"RevolvingContentWrapper",1]
+c:I[735,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"default"]
+4:["slug","eataly","d"]
+0:["DMIAkN52_vMNxvHJP8ACj",[[["",{"children":["blog",{"children":[["slug","eataly","d"],{"children":["__PAGE__?{\"slug\":\"eataly\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","eataly","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"min-h-screen bg-background font-sans antialiased overflow-x-hidden __variable_f367f3","children":["$","$L6",null,{"attribute":"class","defaultTheme":"dark","children":["$","$L7",null,{"delayDuration":0,"children":[["$","$8",null,{"fallback":null,"children":["$","$L9",null,{"reason":"next/dynamic","children":["$","$La",null,{}]}]}],["$","$8",null,{"fallback":null,"children":["$","$L9",null,{"reason":"next/dynamic","children":["$","$Lb",null,{"children":["$","div",null,{"className":"max-w-2xl mx-auto px-container-padding relative z-10","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]}]}]}],["$","$Lc",null,{}]]}]}]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/34fa377fa344f65f.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/857aa62baa17c894.css","precedence":"next","crossOrigin":"$undefined"}]],"$Ld"]]]]
+e:Tb07,<h2>the golden rules</h2>
+<ul>
+<li>no pineapple on pizza
+<ul>
+<li>it is considered a culinary crime</li>
+</ul>
+</li>
+<li>no chicken on pasta
+<ul>
+<li>keep the protein separate or use cured meats</li>
+</ul>
+</li>
+<li>no cappuccino after 11am
+<ul>
+<li>milk is for breakfast, espresso is for digestion</li>
+</ul>
+</li>
+<li>italian cuisine is unesco heritage
+<ul>
+<li>focusing on simplicity and seasonal ingredients</li>
+</ul>
+</li>
+</ul>
+<h2>the carbonara manifesto</h2>
+<ul>
+<li>use guanciale (pig cheek) instead of pancetta for the proper fat content and funk</li>
+<li>pecorino romano is the traditional cheese of choice for roman pasta</li>
+<li>no cream allowed
+<ul>
+<li>the sauce is an emulsion of egg yolks, cheese, and pasta water</li>
+</ul>
+</li>
+<li>pasta water is liquid gold
+<ul>
+<li>use it to bind the sauce to the noodles</li>
+</ul>
+</li>
+</ul>
+<h2>pasta shapes and logic</h2>
+<ul>
+<li>shape determines the sauce
+<ul>
+<li>never choose a shape at random</li>
+</ul>
+</li>
+<li>bucatini: thick with a hole in the middle
+<ul>
+<li>perfect for capturing oils and nutty sauces</li>
+</ul>
+</li>
+<li>orecchiette: "little ears"
+<ul>
+<li>designed to scoop up small vegetable bits like cima di rapa</li>
+</ul>
+</li>
+<li>rigatoni: the ridges (rigate)
+<ul>
+<li>meant to catch thick, chunky meat sauces</li>
+</ul>
+</li>
+<li>fresh vs dried
+<ul>
+<li>fresh pasta is for silkiness; dried pasta is for the perfect al dente bite</li>
+</ul>
+</li>
+</ul>
+<h2>the art of dining</h2>
+<ul>
+<li>traditional structure: antipasto, primo, secondo, contorno</li>
+<li>fare la scarpetta
+<ul>
+<li>use a small piece of bread to wipe the remaining sauce off your plate</li>
+</ul>
+</li>
+<li>water and wine only
+<ul>
+<li>soda is rarely seen on a traditional dinner table</li>
+</ul>
+</li>
+<li>digestivo
+<ul>
+<li>end with a shot of espresso or a bitter liqueur to help with digestion</li>
+</ul>
+</li>
+</ul>
+<h2>pizza knowledge</h2>
+<ul>
+<li>margherita: representing the flag
+<ul>
+<li>basil (green), mozzarella (white), and tomato (red)</li>
+</ul>
+</li>
+<li>marinara: the oldest and simplest style
+<ul>
+<li>just tomato, garlic, and oregano (no cheese!)</li>
+</ul>
+</li>
+<li>cornicione: the puffy outer rim
+<ul>
+<li>should have "leopard spots" from high-heat wood firing</li>
+</ul>
+</li>
+<li>dough is king
+<ul>
+<li>the quality of the crust is more important than the number of toppings</li>
+</ul>
+</li>
+</ul>
+<h2>shopping and sourcing</h2>
+<ul>
+<li>visit mercato gourmet (wan chai/hk) for authentic imports and high-quality cheeses</li>
+<li>buy parmigiano reggiano in chunks
+<ul>
+<li>to preserve the crystalline texture</li>
+</ul>
+</li>
+<li>look for nduja (spicy spreadable pork)
+<ul>
+<li>to add a kick to pasta or pizza</li>
+</ul>
+</li>
+<li>pane toscano: traditionally saltless bread
+<ul>
+<li>made specifically to balance salty sauces</li>
+</ul>
+</li>
+</ul>2:["$","section",null,{"id":"blog","className":"py-20","children":[["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"eataly\",\"datePublished\":\"2025-12-23\",\"dateModified\":\"2025-12-23\",\"description\":\"a guide to authentic italian food knowledge and fun facts\",\"image\":\"https://rohithkumar27.github.io/og?title=eataly\",\"url\":\"https://rohithkumar27.github.io/blog/eataly\",\"author\":{\"@type\":\"Person\",\"name\":\"Rohith Kumar Reddy\"}}"}}],["$","h1",null,{"className":"title font-medium text-2xl tracking-tighter max-w-[650px]","children":"eataly"}],["$","div",null,{"className":"flex justify-between items-center mt-2 mb-8 text-sm max-w-[650px]","children":["$","$8",null,{"fallback":["$","p",null,{"className":"h-5"}],"children":["$","p",null,{"className":"text-sm text-neutral-600 dark:text-neutral-400","children":"December 23, 2025 (4w ago)"}]}]}],false,["$","article",null,{"className":"prose dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$e"}}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"eataly | Rohith Kumar Reddy"}],["$","meta","3",{"name":"description","content":"a guide to authentic italian food knowledge and fun facts"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"eataly"}],["$","meta","7",{"property":"og:description","content":"a guide to authentic italian food knowledge and fun facts"}],["$","meta","8",{"property":"og:url","content":"https://rohithkumar27.github.io/blog/eataly/"}],["$","meta","9",{"property":"og:image","content":"https://rohithkumar27.github.io/og?title=eataly"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2025-12-23"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"eataly"}],["$","meta","14",{"name":"twitter:description","content":"a guide to authentic italian food knowledge and fun facts"}],["$","meta","15",{"name":"twitter:image","content":"https://rohithkumar27.github.io/og?title=eataly"}],["$","link","16",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","17",{"name":"next-size-adjust"}]]
+1:null

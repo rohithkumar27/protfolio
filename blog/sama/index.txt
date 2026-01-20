@@ -1,0 +1,248 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+6:I[4858,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"ThemeProvider"]
+7:I[9502,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"TooltipProvider"]
+8:"$Sreact.suspense"
+9:I[912,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"BailoutToCSR"]
+a:I[9736,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"SpaceRevolvingBackground",1]
+b:I[6428,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"RevolvingContentWrapper",1]
+c:I[735,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"default"]
+4:["slug","sama","d"]
+0:["DMIAkN52_vMNxvHJP8ACj",[[["",{"children":["blog",{"children":[["slug","sama","d"],{"children":["__PAGE__?{\"slug\":\"sama\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","sama","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"min-h-screen bg-background font-sans antialiased overflow-x-hidden __variable_f367f3","children":["$","$L6",null,{"attribute":"class","defaultTheme":"dark","children":["$","$L7",null,{"delayDuration":0,"children":[["$","$8",null,{"fallback":null,"children":["$","$L9",null,{"reason":"next/dynamic","children":["$","$La",null,{}]}]}],["$","$8",null,{"fallback":null,"children":["$","$L9",null,{"reason":"next/dynamic","children":["$","$Lb",null,{"children":["$","div",null,{"className":"max-w-2xl mx-auto px-container-padding relative z-10","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]}]}]}],["$","$Lc",null,{}]]}]}]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/34fa377fa344f65f.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/857aa62baa17c894.css","precedence":"next","crossOrigin":"$undefined"}]],"$Ld"]]]]
+e:T1744,<ul>
+<li>most people start wanting money</li>
+<li>many end up wanting to build something meaningful</li>
+<li>outlier success usually comes after baseline success</li>
+<li>these ideas still apply to almost everyone</li>
+</ul>
+<h2>1. compound yourself</h2>
+<ul>
+<li>compounding is magic</li>
+<li>look for exponential growth, not linear progress</li>
+<li>choose careers and projects where learning and impact accelerate over time
+<ul>
+<li>avoid paths where 2 years = 20 years of experience</li>
+</ul>
+</li>
+<li>use leverage: capital, technology, brand, networks, people</li>
+<li>aim to add another zero to your definition of success
+<ul>
+<li>let go of small opportunities for step-change ones</li>
+</ul>
+</li>
+<li>think long-term when others don’t
+<ul>
+<li>trust the exponential, be patient</li>
+</ul>
+</li>
+</ul>
+<h2>2. have almost too much self-belief</h2>
+<ul>
+<li>self-belief is a force multiplier
+<ul>
+<li>most successful people believe in themselves almost to delusion</li>
+</ul>
+</li>
+<li>strong conviction enables contrarian thinking</li>
+<li>managing morale requires confidence
+<ul>
+<li>ambition attracts resistance</li>
+</ul>
+</li>
+<li>balance self-belief with self-awareness
+<ul>
+<li>treat criticism as potentially true, then decide</li>
+<li>truth-seeking separates confidence from delusion</li>
+</ul>
+</li>
+</ul>
+<h2>3. learn to think independently</h2>
+<ul>
+<li>original thinking is rarely taught
+<ul>
+<li>schools reward conformity, not creativity</li>
+</ul>
+</li>
+<li>think from first principles</li>
+<li>generate ideas and test them quickly in the real world</li>
+<li>failure is expected; being right once matters
+<ul>
+<li>grit comes from solving “unsolvable” problems repeatedly</li>
+</ul>
+</li>
+</ul>
+<h2>4. get good at sales</h2>
+<ul>
+<li>belief alone is not enough</li>
+<li>all great careers involve persuasion
+<ul>
+<li>you must sell to customers, hires, investors, media</li>
+</ul>
+</li>
+<li>clear thinking leads to clear communication
+<ul>
+<li>written communication is especially valuable</li>
+</ul>
+</li>
+<li>selling what you believe in feels right</li>
+<li>sales is learnable with practice
+<ul>
+<li>show up in person when it matters</li>
+</ul>
+</li>
+</ul>
+<h2>5. make it easy to take risks</h2>
+<ul>
+<li>people overestimate risk and underestimate reward</li>
+<li>early career is the best time to take risks</li>
+<li>aim for asymmetric bets: lose 1x, win 100x</li>
+<li>comfort makes risk-taking harder
+<ul>
+<li>avoid lifestyle inflation</li>
+<li>keep life cheap and flexible when possible</li>
+</ul>
+</li>
+</ul>
+<h2>6. focus</h2>
+<ul>
+<li>focus multiplies effort</li>
+<li>choosing the right problem matters more than hours worked
+<ul>
+<li>most work people do doesn’t matter</li>
+</ul>
+</li>
+<li>once priorities are clear, execute aggressively
+<ul>
+<li>speed correlates strongly with success</li>
+</ul>
+</li>
+</ul>
+<h2>7. work hard</h2>
+<ul>
+<li>smart or hard gets you to top 10%</li>
+<li>smart and hard gets you to top 1%</li>
+<li>extreme effort produces extreme results
+<ul>
+<li>momentum compounds</li>
+</ul>
+</li>
+<li>meaningful work is often energizing</li>
+<li>working hard is not shameful</li>
+<li>stamina predicts long-term success
+<ul>
+<li>work hardest early when compounding is strongest</li>
+</ul>
+</li>
+<li>avoid burnout by liking the work and the people</li>
+</ul>
+<h2>8. be bold</h2>
+<ul>
+<li>hard problems attract better people</li>
+<li>ambition creates tailwinds</li>
+<li>don’t downscale your goals to match trends</li>
+<li>follow curiosity
+<ul>
+<li>exciting problems attract support</li>
+</ul>
+</li>
+</ul>
+<h2>9. be willful</h2>
+<ul>
+<li>the world bends more than people expect
+<ul>
+<li>most people don’t push hard enough</li>
+</ul>
+</li>
+<li>ask for what you want</li>
+<li>rejection is normal
+<ul>
+<li>persistence creates room for luck</li>
+</ul>
+</li>
+<li>optimism is required
+<ul>
+<li>pessimists rarely achieve extreme success</li>
+</ul>
+</li>
+</ul>
+<h2>10. be hard to compete with</h2>
+<ul>
+<li>scarcity creates value
+<ul>
+<li>if others can do what you do, they eventually will</li>
+</ul>
+</li>
+<li>build leverage through:
+<ul>
+<li>personal relationships</li>
+<li>personal brand</li>
+<li>cross-domain expertise</li>
+</ul>
+</li>
+<li>avoid mimetic behavior
+<ul>
+<li>differentiation matters</li>
+</ul>
+</li>
+</ul>
+<h2>11. build a network</h2>
+<ul>
+<li>great work requires teams</li>
+<li>networks limit or expand what you can do</li>
+<li>help people generously over time</li>
+<li>take care of collaborators
+<ul>
+<li>share upside generously</li>
+</ul>
+</li>
+<li>push people to grow, not to burn out</li>
+<li>define yourself by strengths, not weaknesses
+<ul>
+<li>hire complementary people</li>
+</ul>
+</li>
+<li>look for rate of improvement, not credentials
+<ul>
+<li>ask: is this person a force of nature?</li>
+</ul>
+</li>
+<li>spend time with people who support your ambitions</li>
+</ul>
+<h2>12. you get rich by owning things</h2>
+<ul>
+<li>salaries rarely create extreme wealth</li>
+<li>ownership creates upside
+<ul>
+<li>equity scales; time does not</li>
+</ul>
+</li>
+<li>own things that grow rapidly in value</li>
+<li>build things people want at scale</li>
+</ul>
+<h2>13. be internally driven</h2>
+<ul>
+<li>external validation leads to safe, consensus paths
+<ul>
+<li>it distorts risk assessment</li>
+<li>smart people are especially vulnerable</li>
+</ul>
+</li>
+<li>internal motivation sustains long-term excellence
+<ul>
+<li>the best people aim to impress themselves</li>
+</ul>
+</li>
+<li>obsession is required for extreme success</li>
+<li>success eventually becomes doing excellent work that matters to you</li>
+</ul>
+<h2>closing thought</h2>
+<ul>
+<li>opportunity is unevenly distributed</li>
+<li>luck matters more than people admit</li>
+<li>progress is still possible without privilege</li>
+<li>long-term belief, effort, and persistence matter</li>
+<li>start as early as you can</li>
+</ul>
+<p>original: <a href="https://blog.samaltman.com/how-to-be-successful">https://blog.samaltman.com/how-to-be-successful</a></p>2:["$","section",null,{"id":"blog","className":"py-20","children":[["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"sama\",\"datePublished\":\"2025-12-23\",\"dateModified\":\"2025-12-23\",\"description\":\"distilled thoughts on how to achieve outlier success, inspired by sam altman\",\"image\":\"https://rohithkumar27.github.io/og?title=sama\",\"url\":\"https://rohithkumar27.github.io/blog/sama\",\"author\":{\"@type\":\"Person\",\"name\":\"Rohith Kumar Reddy\"}}"}}],["$","h1",null,{"className":"title font-medium text-2xl tracking-tighter max-w-[650px]","children":"sama"}],["$","div",null,{"className":"flex justify-between items-center mt-2 mb-8 text-sm max-w-[650px]","children":["$","$8",null,{"fallback":["$","p",null,{"className":"h-5"}],"children":["$","p",null,{"className":"text-sm text-neutral-600 dark:text-neutral-400","children":"December 23, 2025 (4w ago)"}]}]}],false,["$","article",null,{"className":"prose dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$e"}}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"sama | Rohith Kumar Reddy"}],["$","meta","3",{"name":"description","content":"distilled thoughts on how to achieve outlier success, inspired by sam altman"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"sama"}],["$","meta","7",{"property":"og:description","content":"distilled thoughts on how to achieve outlier success, inspired by sam altman"}],["$","meta","8",{"property":"og:url","content":"https://rohithkumar27.github.io/blog/sama/"}],["$","meta","9",{"property":"og:image","content":"https://rohithkumar27.github.io/og?title=sama"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2025-12-23"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"sama"}],["$","meta","14",{"name":"twitter:description","content":"distilled thoughts on how to achieve outlier success, inspired by sam altman"}],["$","meta","15",{"name":"twitter:image","content":"https://rohithkumar27.github.io/og?title=sama"}],["$","link","16",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","17",{"name":"next-size-adjust"}]]
+1:null

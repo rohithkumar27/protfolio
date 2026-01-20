@@ -1,0 +1,106 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+6:I[4858,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"ThemeProvider"]
+7:I[9502,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"TooltipProvider"]
+8:"$Sreact.suspense"
+9:I[912,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"BailoutToCSR"]
+a:I[9736,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"SpaceRevolvingBackground",1]
+b:I[6428,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"RevolvingContentWrapper",1]
+c:I[735,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"default"]
+4:["slug","the-art-of-invisibility","d"]
+0:["DMIAkN52_vMNxvHJP8ACj",[[["",{"children":["blog",{"children":[["slug","the-art-of-invisibility","d"],{"children":["__PAGE__?{\"slug\":\"the-art-of-invisibility\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","the-art-of-invisibility","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"min-h-screen bg-background font-sans antialiased overflow-x-hidden __variable_f367f3","children":["$","$L6",null,{"attribute":"class","defaultTheme":"dark","children":["$","$L7",null,{"delayDuration":0,"children":[["$","$8",null,{"fallback":null,"children":["$","$L9",null,{"reason":"next/dynamic","children":["$","$La",null,{}]}]}],["$","$8",null,{"fallback":null,"children":["$","$L9",null,{"reason":"next/dynamic","children":["$","$Lb",null,{"children":["$","div",null,{"className":"max-w-2xl mx-auto px-container-padding relative z-10","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]}]}]}],["$","$Lc",null,{}]]}]}]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/34fa377fa344f65f.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/857aa62baa17c894.css","precedence":"next","crossOrigin":"$undefined"}]],"$Ld"]]]]
+e:Tf64,<p>invisibility is not about paranoia; it is about agency</p>
+<p>the goal is not to disappear completely, but to control who can see what, when, and why</p>
+<p>every system leaks; the art is choosing which leaks you can live with</p>
+<h3>core principles</h3>
+<ul>
+<li>assume compromise is possible; design for damage containment, not perfection</li>
+<li>separate identities, devices, and roles, no single point of failure</li>
+<li>reduce metadata first; content privacy comes second</li>
+<li>convenience is the tax you pay for exposure</li>
+</ul>
+<h3>threat modeling (before tools)</h3>
+<ul>
+<li>who might care about your data?</li>
+<li>what do they want: content, metadata, or leverage?</li>
+<li>are they advertisers, stalkers, corporations, or state-level actors?</li>
+<li>how much friction are you realistically willing to tolerate?</li>
+</ul>
+<h3>operating systems as a security boundary</h3>
+<h4>GrapheneOS</h4>
+<ul>
+<li>hardened android with strong sandboxing and exploit mitigations</li>
+<li>minimal attack surface; no google services by default</li>
+<li>relevant because modern spyware often relies on zero-click chains</li>
+<li>widely discussed after revelations around Pegasus spyware, where fully up-to-date phones were compromised via iMessage / WhatsApp</li>
+<li>takeaway: hardware + OS hardening matters more than apps alone</li>
+</ul>
+<h4>Qubes OS</h4>
+<ul>
+<li>security by compartmentalization (qubes)</li>
+<li>different tasks live in isolated virtual machines</li>
+<li>assumes breach is inevitable; limits blast radius</li>
+<li>high friction, but unmatched for journalists, researchers, activists</li>
+</ul>
+<h4>Tails OS</h4>
+<ul>
+<li>amnesic, live system that leaves no trace by default</li>
+<li>all traffic routed through tor</li>
+<li>ideal for high-risk, short-lived sessions</li>
+<li>not a daily driver; a scalpel, not a hammer</li>
+</ul>
+<h3>devices and separation</h3>
+<ul>
+<li>different devices for different identities (work / personal / anonymous)</li>
+<li>never mix high-risk accounts with real-name ecosystems</li>
+<li>cameras, microphones, basebands are attack surfaces, not features</li>
+</ul>
+<h3>network hygiene</h3>
+<ul>
+<li>tor for anonymity; vpns for location shifting (not anonymity)</li>
+<li>dns leaks matter more than people think</li>
+<li>public wifi is hostile by default; trust boundaries are imaginary</li>
+</ul>
+<h3>accounts and identity</h3>
+<ul>
+<li>real name, pseudonym, burner: keep them strictly disjoint</li>
+<li>phone numbers are toxic identifiers; avoid when possible</li>
+<li>email reuse is silent self-doxxing</li>
+</ul>
+<h3>messaging realities</h3>
+<ul>
+<li>end-to-end encryption protects content, not metadata</li>
+<li>contact graphs are often more valuable than messages</li>
+<li>disappearing messages help, but screenshots always exist</li>
+</ul>
+<h3>cloud skepticism</h3>
+<ul>
+<li>“encrypted at rest” protects providers, not users</li>
+<li>backups are long-term memory; attackers love memory</li>
+<li>if it syncs everywhere, it leaks everywhere</li>
+</ul>
+<h3>lessons from pegasus-era surveillance</h3>
+<ul>
+<li>zero-click exploits changed the rules</li>
+<li>“i didn’t click anything” is no longer a defense</li>
+<li>fully patched consumer devices can still be compromised</li>
+<li>invisibility today is about resilience, not invulnerability</li>
+</ul>
+<h3>psychological discipline</h3>
+<ul>
+<li>oversharing kills more privacy than hackers</li>
+<li>routine is fingerprintable; randomness is protection</li>
+<li>silence is sometimes the strongest signal</li>
+</ul>
+<h3>trade-offs (be honest)</h3>
+<ul>
+<li>more security = more friction</li>
+<li>more anonymity = less personalization</li>
+<li>absolute invisibility is a myth; selective opacity is achievable</li>
+</ul>
+<h3>closing note</h3>
+<p>the art of invisibility is not hiding from the world</p>
+<p>it is choosing which parts of yourself the world gets to see</p>
+<p>privacy is not secrecy; it is self-determination</p>2:["$","section",null,{"id":"blog","className":"py-20","children":[["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"the art of invisibility\",\"datePublished\":\"2025-12-23\",\"dateModified\":\"2025-12-23\",\"description\":\"invisibility is not about paranoia; it is about agency\",\"image\":\"https://rohithkumar27.github.io/og?title=the art of invisibility\",\"url\":\"https://rohithkumar27.github.io/blog/the-art-of-invisibility\",\"author\":{\"@type\":\"Person\",\"name\":\"Rohith Kumar Reddy\"}}"}}],["$","h1",null,{"className":"title font-medium text-2xl tracking-tighter max-w-[650px]","children":"the art of invisibility"}],["$","div",null,{"className":"flex justify-between items-center mt-2 mb-8 text-sm max-w-[650px]","children":["$","$8",null,{"fallback":["$","p",null,{"className":"h-5"}],"children":["$","p",null,{"className":"text-sm text-neutral-600 dark:text-neutral-400","children":"December 23, 2025 (4w ago)"}]}]}],false,["$","article",null,{"className":"prose dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$e"}}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"the art of invisibility | Rohith Kumar Reddy"}],["$","meta","3",{"name":"description","content":"invisibility is not about paranoia; it is about agency"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"the art of invisibility"}],["$","meta","7",{"property":"og:description","content":"invisibility is not about paranoia; it is about agency"}],["$","meta","8",{"property":"og:url","content":"https://rohithkumar27.github.io/blog/the-art-of-invisibility/"}],["$","meta","9",{"property":"og:image","content":"https://rohithkumar27.github.io/og?title=the%20art%20of%20invisibility"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2025-12-23"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"the art of invisibility"}],["$","meta","14",{"name":"twitter:description","content":"invisibility is not about paranoia; it is about agency"}],["$","meta","15",{"name":"twitter:image","content":"https://rohithkumar27.github.io/og?title=the%20art%20of%20invisibility"}],["$","link","16",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","17",{"name":"next-size-adjust"}]]
+1:null

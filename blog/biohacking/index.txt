@@ -1,0 +1,254 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+6:I[4858,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"ThemeProvider"]
+7:I[9502,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"TooltipProvider"]
+8:"$Sreact.suspense"
+9:I[912,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"BailoutToCSR"]
+a:I[9736,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"SpaceRevolvingBackground",1]
+b:I[6428,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"RevolvingContentWrapper",1]
+c:I[735,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"default"]
+4:["slug","biohacking","d"]
+0:["DMIAkN52_vMNxvHJP8ACj",[[["",{"children":["blog",{"children":[["slug","biohacking","d"],{"children":["__PAGE__?{\"slug\":\"biohacking\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","biohacking","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"min-h-screen bg-background font-sans antialiased overflow-x-hidden __variable_f367f3","children":["$","$L6",null,{"attribute":"class","defaultTheme":"dark","children":["$","$L7",null,{"delayDuration":0,"children":[["$","$8",null,{"fallback":null,"children":["$","$L9",null,{"reason":"next/dynamic","children":["$","$La",null,{}]}]}],["$","$8",null,{"fallback":null,"children":["$","$L9",null,{"reason":"next/dynamic","children":["$","$Lb",null,{"children":["$","div",null,{"className":"max-w-2xl mx-auto px-container-padding relative z-10","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]}]}]}],["$","$Lc",null,{}]]}]}]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/34fa377fa344f65f.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/857aa62baa17c894.css","precedence":"next","crossOrigin":"$undefined"}]],"$Ld"]]]]
+e:T211c,<p>biohacking is about aligning with biology, not forcing extremes</p>
+<p>it is mostly about removing friction, not adding hacks</p>
+<p>consistency beats novelty every time</p>
+<h3>core principles</h3>
+<ul>
+<li>fix sleep, light, food, movement, stress before supplements</li>
+<li>measure only what you can act on</li>
+<li>avoid injections, experimental drugs, or extreme interventions</li>
+<li>favor habits with long human safety records</li>
+<li>stop anything that worsens sleep, anxiety, or recovery</li>
+</ul>
+<h3>sleep (highest roi)</h3>
+<ul>
+<li>sleep is the foundation everything stacks on</li>
+<li>fixed wake-up time > fixed bedtime</li>
+<li>morning sunlight within 30–60 minutes of waking</li>
+<li>no bright or overhead light 2–3 hours before bed</li>
+<li>cool, dark, quiet bedroom</li>
+<li>caffeine cutoff 8–10 hours before sleep</li>
+<li>alcohol framed as a sleep disruptor, not relaxation</li>
+</ul>
+<h4>circadian rhythm</h4>
+<ul>
+<li>light is the primary biological clock</li>
+<li>outdoor daylight beats light boxes when possible</li>
+<li>dim evenings support melatonin release</li>
+<li>late-night screens = artificial jet lag</li>
+<li>consistent meal timing reinforces circadian alignment</li>
+</ul>
+<h3>nutrition</h3>
+<ul>
+<li>fewer rules, more signal</li>
+<li>whole foods over supplements</li>
+<li>protein sufficiency for muscle, satiety, glucose stability</li>
+<li>fiber for gut and metabolic health</li>
+<li>minimize ultra-processed foods rather than chasing superfoods</li>
+<li>time-restricted eating used cautiously, not dogmatically</li>
+<li>hydration guided by thirst + urine color</li>
+</ul>
+<h4>glucose awareness (without obsession)</h4>
+<ul>
+<li>glucose spikes are context-dependent, not moral failures</li>
+<li>walking after meals improves glucose handling</li>
+<li>pairing carbs with protein/fat blunts spikes</li>
+<li>avoid anxiety-driven continuous tracking</li>
+</ul>
+<h3>exercise (the real backbone)</h3>
+<h4>movement baseline</h4>
+<ul>
+<li>daily movement is non-negotiable</li>
+<li>steps and light activity matter even if you train</li>
+<li>long sitting blocks blunt metabolic health</li>
+</ul>
+<h4>resistance training / lifting</h4>
+<ul>
+<li>primary goal: preserve and build muscle mass</li>
+<li>muscle = metabolic health, insulin sensitivity, longevity</li>
+<li>2–4 sessions per week is sufficient</li>
+<li>compound movements prioritized (squat, hinge, push, pull, carry)</li>
+<li>progressive overload > novelty</li>
+<li>form and consistency beat ego lifting</li>
+</ul>
+<h4>cardio</h4>
+<ul>
+<li>cardio is for heart, mitochondria, and brain</li>
+<li>not all cardio is the same</li>
+</ul>
+<h5>zone 2 cardio</h5>
+<ul>
+<li>low to moderate intensity, conversational pace</li>
+<li>improves mitochondrial density and fat oxidation</li>
+<li>2–4 hours per week total</li>
+<li>examples: brisk walking, cycling, easy jogging, rowing</li>
+</ul>
+<h5>high-intensity cardio</h5>
+<ul>
+<li>short, hard efforts raise cardiovascular ceiling</li>
+<li>improves vo2 max</li>
+<li>1–2 sessions per week max</li>
+<li>excessive hiit = stress accumulation</li>
+</ul>
+<h4>vo2 max</h4>
+<ul>
+<li>one of the strongest predictors of lifespan and healthspan</li>
+<li>reflects heart, lung, blood, and muscle integration</li>
+<li>improves via intervals, hills, mixed endurance + strength</li>
+<li>progress stalls without sleep and recovery</li>
+</ul>
+<h3>recovery</h3>
+<ul>
+<li>adaptation happens during rest, not training</li>
+<li>sleep, calories, and protein enable gains</li>
+<li>soreness is not a success metric</li>
+</ul>
+<h4>stress &#x26; nervous system</h4>
+<ul>
+<li>chronic stress treated as a root cause</li>
+<li>slow nasal breathing > complex breath protocols</li>
+<li>regular time without digital input</li>
+<li>social safety and trust affect biology</li>
+</ul>
+<h4>cold &#x26; heat exposure</h4>
+<ul>
+<li>cold exposure as mild hormetic stress, not fat-loss magic</li>
+<li>short cold showers over extreme ice rituals</li>
+<li>sauna for relaxation, cardiovascular support, sleep quality</li>
+<li>recovery prioritized over suffering</li>
+</ul>
+<h3>fat loss (honest framing)</h3>
+<ul>
+<li>fat loss requires a sustained energy deficit</li>
+<li>exercise supports fat loss, diet adherence matters more</li>
+<li>muscle preservation is the priority while cutting</li>
+</ul>
+<h3>extended fasting (strategic use only)</h3>
+<ul>
+<li>extended fasting can reduce fat mass and improve insulin sensitivity</li>
+<li>higher risk, higher reward tool</li>
+<li>not required for most people</li>
+</ul>
+<h4>who it may suit</h4>
+<ul>
+<li>metabolically unhealthy individuals</li>
+<li>people with significant fat to lose</li>
+<li>those with prior fasting experience</li>
+</ul>
+<h4>who should avoid</h4>
+<ul>
+<li>underweight individuals</li>
+<li>eating disorder history</li>
+<li>high training volume athletes</li>
+<li>poor sleep or high stress baselines</li>
+</ul>
+<h4>protocol basics</h4>
+<ul>
+<li>typically 36–72 hours, not weeks</li>
+<li>water intake is mandatory</li>
+<li>activity volume reduced significantly</li>
+<li>heavy lifting paused</li>
+</ul>
+<h4>supplements &#x26; electrolytes during extended fasting</h4>
+<ul>
+<li>sodium: prevents dizziness and low blood pressure</li>
+<li>potassium: supports nerve and muscle function</li>
+<li>magnesium: reduces cramps, supports sleep and stress</li>
+<li>electrolytes must be sugar-free</li>
+</ul>
+<h4>optional</h4>
+<ul>
+<li>black coffee or plain tea (cautiously)</li>
+<li>bone broth (technically breaks fast but improves safety)</li>
+</ul>
+<h4>rules</h4>
+<ul>
+<li>do not stack extended fasting with intense training</li>
+<li>fasting days: walking or light zone 2 only</li>
+<li>fed days: lift heavy, train hard</li>
+</ul>
+<h3>supplements (minimalist, focused list)</h3>
+<h4>core vitamins</h4>
+<ul>
+<li>vitamin d: immune, mood, bone health</li>
+<li>vitamin b12: nerve function, energy metabolism</li>
+<li>folate (b9): cell division, neurological health</li>
+<li>vitamin c: antioxidant, collagen synthesis</li>
+<li>vitamin a (food preferred): vision, immune health</li>
+<li>vitamin e: antioxidant support</li>
+<li>vitamin k2: calcium regulation, bone and vascular health</li>
+</ul>
+<h4>minerals</h4>
+<ul>
+<li>magnesium (glycinate or threonate): sleep, stress, muscle relaxation</li>
+<li>zinc: immune and hormone function</li>
+<li>iron: oxygen transport (supplement only if deficient)</li>
+<li>iodine: thyroid support</li>
+<li>selenium: thyroid enzymes, antioxidant systems</li>
+<li>potassium: electrolyte balance (prefer food sources)</li>
+</ul>
+<h4>fatty acids</h4>
+<ul>
+<li>omega-3s (epa/dha): cardiovascular, brain, inflammation balance</li>
+</ul>
+<h4>protein &#x26; amino acids</h4>
+<ul>
+<li>adequate dietary protein first</li>
+<li>protein powders for convenience only</li>
+<li>creatine monohydrate: strength, cognition, aging support</li>
+<li>glycine: sleep quality, connective tissue support</li>
+</ul>
+<h4>gut support</h4>
+<ul>
+<li>fiber from food first</li>
+<li>probiotics short-term, strain-specific</li>
+<li>prebiotics to support existing microbiome</li>
+</ul>
+<h4>rules</h4>
+<ul>
+<li>food first, supplements last</li>
+<li>test when possible, guess less</li>
+<li>avoid stacking dozens of compounds</li>
+</ul>
+<h3>mental performance</h3>
+<ul>
+<li>attention is a finite resource</li>
+<li>single-tasking beats productivity hacks</li>
+<li>deep work protected by environment design</li>
+<li>digital minimalism as cognitive hygiene</li>
+</ul>
+<h4>environment</h4>
+<ul>
+<li>reduce constant noise and notification load</li>
+<li>clean air and ventilation matter more than gadgets</li>
+<li>daylight exposure at workspaces</li>
+<li>ergonomic basics over expensive setups</li>
+</ul>
+<h3>tracking &#x26; wearables</h3>
+<ul>
+<li>tools for pattern recognition, not self-surveillance</li>
+<li>trends > daily fluctuations</li>
+<li>sleep regularity > sleep scores</li>
+<li>stop tracking if it increases anxiety</li>
+</ul>
+<h3>what fades</h3>
+<ul>
+<li>extreme fasting as a lifestyle</li>
+<li>biohacking as identity or flex</li>
+<li>optimization without trade-off awareness</li>
+<li>novelty chasing</li>
+</ul>
+<h3>what wins</h3>
+<ul>
+<li>boring routines done daily</li>
+<li>recovery as performance</li>
+<li>muscle + heart + mitochondria as priorities</li>
+<li>sustainability over intensity</li>
+</ul>
+<h3>bottom line</h3>
+<p>the best biohack is not adding more</p>
+<p>it is removing friction, noise, and self-inflicted stress</p>
+<p>lift weights, protect sleep, move daily, recover hard</p>
+<p>consistency beats sophistication every time</p>2:["$","section",null,{"id":"blog","className":"py-20","children":[["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"biohacking\",\"datePublished\":\"2025-12-23\",\"dateModified\":\"2025-12-23\",\"description\":\"biohacking is about aligning with biology, not forcing extremes\",\"image\":\"https://rohithkumar27.github.io/og?title=biohacking\",\"url\":\"https://rohithkumar27.github.io/blog/biohacking\",\"author\":{\"@type\":\"Person\",\"name\":\"Rohith Kumar Reddy\"}}"}}],["$","h1",null,{"className":"title font-medium text-2xl tracking-tighter max-w-[650px]","children":"biohacking"}],["$","div",null,{"className":"flex justify-between items-center mt-2 mb-8 text-sm max-w-[650px]","children":["$","$8",null,{"fallback":["$","p",null,{"className":"h-5"}],"children":["$","p",null,{"className":"text-sm text-neutral-600 dark:text-neutral-400","children":"December 23, 2025 (4w ago)"}]}]}],false,["$","article",null,{"className":"prose dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$e"}}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"biohacking | Rohith Kumar Reddy"}],["$","meta","3",{"name":"description","content":"biohacking is about aligning with biology, not forcing extremes"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"biohacking"}],["$","meta","7",{"property":"og:description","content":"biohacking is about aligning with biology, not forcing extremes"}],["$","meta","8",{"property":"og:url","content":"https://rohithkumar27.github.io/blog/biohacking/"}],["$","meta","9",{"property":"og:image","content":"https://rohithkumar27.github.io/og?title=biohacking"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2025-12-23"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"biohacking"}],["$","meta","14",{"name":"twitter:description","content":"biohacking is about aligning with biology, not forcing extremes"}],["$","meta","15",{"name":"twitter:image","content":"https://rohithkumar27.github.io/og?title=biohacking"}],["$","link","16",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","17",{"name":"next-size-adjust"}]]
+1:null

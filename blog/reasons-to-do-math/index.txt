@@ -1,0 +1,102 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+6:I[4858,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"ThemeProvider"]
+7:I[9502,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"TooltipProvider"]
+8:"$Sreact.suspense"
+9:I[912,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"BailoutToCSR"]
+a:I[9736,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"SpaceRevolvingBackground",1]
+b:I[6428,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"RevolvingContentWrapper",1]
+c:I[735,["106","static/chunks/106-f476ba95aeed2122.js","868","static/chunks/868-da6532ab5ed26462.js","231","static/chunks/231-2d095471957ff3d5.js","498","static/chunks/498-e479fb5729b309cf.js","423","static/chunks/423-bee9b8cb7b5dd0fb.js","185","static/chunks/app/layout-41f93ea7f1047e2e.js"],"default"]
+4:["slug","reasons-to-do-math","d"]
+0:["DMIAkN52_vMNxvHJP8ACj",[[["",{"children":["blog",{"children":[["slug","reasons-to-do-math","d"],{"children":["__PAGE__?{\"slug\":\"reasons-to-do-math\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","reasons-to-do-math","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"min-h-screen bg-background font-sans antialiased overflow-x-hidden __variable_f367f3","children":["$","$L6",null,{"attribute":"class","defaultTheme":"dark","children":["$","$L7",null,{"delayDuration":0,"children":[["$","$8",null,{"fallback":null,"children":["$","$L9",null,{"reason":"next/dynamic","children":["$","$La",null,{}]}]}],["$","$8",null,{"fallback":null,"children":["$","$L9",null,{"reason":"next/dynamic","children":["$","$Lb",null,{"children":["$","div",null,{"className":"max-w-2xl mx-auto px-container-padding relative z-10","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]}]}]}],["$","$Lc",null,{}]]}]}]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/34fa377fa344f65f.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/857aa62baa17c894.css","precedence":"next","crossOrigin":"$undefined"}]],"$Ld"]]]]
+e:Tec4,<h2>1. math is the substrate of modern technology</h2>
+<ul>
+<li>ai, machine learning, cryptography, graphics, optimization, and quantitative finance all reduce to math</li>
+<li>models change fast; linear algebra, probability, optimization, and analysis do not</li>
+<li>tools expire, fundamentals compound</li>
+</ul>
+<h2>2. ai increased the value of math, not reduced it</h2>
+<ul>
+<li>ai automates execution, not problem formulation</li>
+<li>the bottleneck in 2025 is knowing what to model, approximate, relax, or prove</li>
+<li>math majors are trained to reason under abstraction and uncertainty
+<ul>
+<li>the exact gap ai hasn’t closed</li>
+</ul>
+</li>
+</ul>
+<h2>3. math trains transferable thinking, not narrow skills</h2>
+<ul>
+<li>proof-writing → rigorous reasoning</li>
+<li>modeling → translating reality into structure</li>
+<li>asymptotics → understanding limits and tradeoffs</li>
+<li>error bounds → knowing when results are trustworthy</li>
+<li>these skills transfer across domains better than tool-specific training</li>
+</ul>
+<h2>4. math is future-proof against tech churn</h2>
+<ul>
+<li>programming languages, frameworks, and stacks turn over every 3–5 years</li>
+<li>mathematical foundations last decades</li>
+<li>employers increasingly look for people who can relearn fast, not people locked into one stack</li>
+</ul>
+<h2>5. math majors adapt across industries</h2>
+<ul>
+<li>math graduates end up in diverse fields:
+<ul>
+<li>ai / ml research</li>
+<li>quantitative finance / trading</li>
+<li>cryptography &#x26; security</li>
+<li>data science</li>
+<li>computational biology / medicine</li>
+<li>economics &#x26; policy modeling</li>
+<li>graduate research (math, cs, physics, engineering)</li>
+</ul>
+</li>
+<li>the degree does not dictate a single path - it preserves optionality</li>
+</ul>
+<h2>6. math is leverage in interdisciplinary fields</h2>
+<ul>
+<li>in 2025, the highest-impact work sits between disciplines:
+<ul>
+<li>math + cs → ai, systems, theory</li>
+<li>math + biology → computational medicine, systems biology</li>
+<li>math + economics → market design, mechanism design</li>
+<li>math + physics → simulation, materials, climate modeling</li>
+</ul>
+</li>
+<li>math is the shared language that lets you cross boundaries</li>
+</ul>
+<h2>7. math teaches humility and intellectual honesty</h2>
+<ul>
+<li>proofs force you to confront what you don’t know</li>
+<li>counterexamples punish hand-waving</li>
+<li>results are either correct or not - status doesn’t help</li>
+<li>this builds epistemic discipline rare in opinion-driven fields</li>
+</ul>
+<h2>8. math keeps doors open for graduate study</h2>
+<ul>
+<li>top phd and research programs still value math rigor highly</li>
+<li>even applied fields increasingly expect strong mathematical maturity</li>
+<li>math is one of the few majors that does not foreclose advanced options early</li>
+</ul>
+<h2>9. math is one of the best “anti-bullshit” educations</h2>
+<ul>
+<li>trains you to detect invalid arguments, hidden assumptions, and misuse of statistics</li>
+<li>crucial in an era of ai-generated text, persuasion systems, and misinformation</li>
+<li>helps separate signal from narrative</li>
+</ul>
+<h2>10. math is slow knowledge in a fast world</h2>
+<ul>
+<li>most of the world optimizes for speed, visibility, and short-term gains</li>
+<li>math optimizes for correctness, depth, and long-term insight</li>
+<li>this asymmetry becomes more valuable as noise increases</li>
+</ul>
+<h2>honest caveat</h2>
+<ul>
+<li>math is not a shortcut to money</li>
+<li>math is cognitively demanding and often lonely</li>
+<li>its value compounds over time, not instantly</li>
+<li>but for people who care about understanding, optional freedom, and long-term leverage, it remains one of the strongest majors</li>
+</ul>2:["$","section",null,{"id":"blog","className":"py-20","children":[["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"reasons to do math\",\"datePublished\":\"2025-12-23\",\"dateModified\":\"2025-12-23\",\"description\":\"why mathematical maturity remains the ultimate leverage in a tech-driven world\",\"image\":\"https://rohithkumar27.github.io/og?title=reasons to do math\",\"url\":\"https://rohithkumar27.github.io/blog/reasons-to-do-math\",\"author\":{\"@type\":\"Person\",\"name\":\"Rohith Kumar Reddy\"}}"}}],["$","h1",null,{"className":"title font-medium text-2xl tracking-tighter max-w-[650px]","children":"reasons to do math"}],["$","div",null,{"className":"flex justify-between items-center mt-2 mb-8 text-sm max-w-[650px]","children":["$","$8",null,{"fallback":["$","p",null,{"className":"h-5"}],"children":["$","p",null,{"className":"text-sm text-neutral-600 dark:text-neutral-400","children":"December 23, 2025 (4w ago)"}]}]}],false,["$","article",null,{"className":"prose dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$e"}}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"reasons to do math | Rohith Kumar Reddy"}],["$","meta","3",{"name":"description","content":"why mathematical maturity remains the ultimate leverage in a tech-driven world"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","6",{"property":"og:title","content":"reasons to do math"}],["$","meta","7",{"property":"og:description","content":"why mathematical maturity remains the ultimate leverage in a tech-driven world"}],["$","meta","8",{"property":"og:url","content":"https://rohithkumar27.github.io/blog/reasons-to-do-math/"}],["$","meta","9",{"property":"og:image","content":"https://rohithkumar27.github.io/og?title=reasons%20to%20do%20math"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2025-12-23"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"reasons to do math"}],["$","meta","14",{"name":"twitter:description","content":"why mathematical maturity remains the ultimate leverage in a tech-driven world"}],["$","meta","15",{"name":"twitter:image","content":"https://rohithkumar27.github.io/og?title=reasons%20to%20do%20math"}],["$","link","16",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","17",{"name":"next-size-adjust"}]]
+1:null
