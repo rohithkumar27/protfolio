@@ -1,14 +1,11 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Mail, Github, Linkedin, Sun, Moon } from "lucide-react";
-import { useTheme } from "next-themes";
+import { Mail, Github, Linkedin } from "lucide-react";
 import { DATA } from "@/data/resume";
 import Link from "next/link";
 
 export default function FloatingContact() {
-  const { theme, setTheme } = useTheme();
-
   const contactItems = [
     {
       icon: Mail,
@@ -30,41 +27,15 @@ export default function FloatingContact() {
     },
   ];
 
-  const toggleTheme = () => {
-    setTheme(theme === "dark" ? "light" : "dark");
-  };
-
   return (
     <div className="fixed bottom-6 right-6 z-50 flex flex-col gap-3">
-      {/* Theme Toggle */}
-      <motion.button
-        initial={{ opacity: 0, x: 50 }}
-        animate={{ opacity: 1, x: 0 }}
-        transition={{ delay: 0.1 }}
-        whileHover={{ scale: 1.1 }}
-        whileTap={{ scale: 0.9 }}
-        onClick={toggleTheme}
-        className="w-12 h-12 bg-yellow-500 hover:bg-yellow-600 dark:bg-purple-600 dark:hover:bg-purple-700 text-white rounded-full shadow-lg flex items-center justify-center transition-all duration-200 relative"
-      >
-        {theme === "dark" ? <Sun className="w-5 h-5" /> : <Moon className="w-5 h-5" />}
-        
-        {/* Status Indicator */}
-        <div className="absolute -top-1 -right-1 w-3 h-3 bg-green-500 rounded-full border-2 border-white dark:border-gray-900 shadow-sm">
-          <motion.div
-            animate={{ scale: [1, 1.2, 1] }}
-            transition={{ duration: 2, repeat: Infinity }}
-            className="w-full h-full bg-green-500 rounded-full"
-          />
-        </div>
-      </motion.button>
-
       {/* Contact Items */}
       {contactItems.map((item, index) => (
         <motion.div
           key={item.label}
           initial={{ opacity: 0, x: 50 }}
           animate={{ opacity: 1, x: 0 }}
-          transition={{ delay: 0.1 * (index + 2) }}
+          transition={{ delay: 0.1 * (index + 1) }}
         >
           <Link
             href={item.href}

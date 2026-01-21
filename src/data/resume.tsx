@@ -146,7 +146,7 @@ export const DATA = {
       description:
         "HackUMass XIII Winner - Accessibility-focused mobile app for visually impaired students with real-time Q&A over classroom slides using WebRTC, OCR + LLM-based summarization. Selected among 300+ teams.",
       technologies: [
-        "React Native",
+        "Flutter",
         "WebRTC",
         "OCR",
         "LLM",

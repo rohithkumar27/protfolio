@@ -84,13 +84,13 @@ export const BeyondCode = () => {
             <div className="flex justify-center">
               <div className="relative">
                 {/* Main Control Panel */}
-                <div className="relative w-80 h-80 bg-gradient-to-br from-slate-900/90 to-slate-800/90 rounded-2xl border border-primary/30 backdrop-blur-md shadow-2xl">
+                <div className="relative w-80 h-80 bg-gradient-to-br from-card/95 to-card/90 rounded-2xl border border-border/50 backdrop-blur-md shadow-2xl">
                   {/* Header */}
-                  <div className="absolute top-0 left-0 right-0 h-12 bg-gradient-to-r from-primary/20 to-primary/10 rounded-t-2xl border-b border-primary/30 flex items-center justify-center">
+                  <div className="absolute top-0 left-0 right-0 h-12 bg-gradient-to-r from-primary/20 to-primary/10 rounded-t-2xl border-b border-border/30 flex items-center justify-center">
                     <div className="flex items-center gap-2">
                       <Navigation className="w-4 h-4 text-primary" />
                       <span className="text-xs font-mono text-primary tracking-wider">INTEREST SCANNER</span>
-                      <div className={`w-2 h-2 rounded-full ${isScanning ? 'bg-green-400 animate-pulse' : 'bg-yellow-400'}`} />
+                      <div className={`w-2 h-2 rounded-full ${isScanning ? 'bg-green-500 animate-pulse' : 'bg-yellow-500'}`} />
                     </div>
                   </div>
 
@@ -130,8 +130,8 @@ export const BeyondCode = () => {
                             key={interest.id}
                             className={`absolute w-8 h-8 rounded-full border-2 transition-all duration-300 cursor-pointer z-10 ${
                               isActive 
-                                ? 'bg-blue-500 border-blue-500 shadow-lg shadow-blue-500/50 scale-125' 
-                                : 'bg-slate-700/80 border-blue-400/40 hover:border-blue-400 hover:scale-110'
+                                ? 'bg-primary border-primary shadow-lg shadow-primary/50 scale-125' 
+                                : 'bg-muted/80 border-primary/40 hover:border-primary hover:scale-110'
                             }`}
                             style={{
                               left: `calc(50% + ${x}px - 1rem)`,
@@ -145,14 +145,14 @@ export const BeyondCode = () => {
                           >
                             <interest.icon 
                               className={`w-4 h-4 mx-auto ${
-                                isActive ? 'text-white' : 'text-blue-400'
+                                isActive ? 'text-primary-foreground' : 'text-primary'
                               }`} 
                             />
                             
                             {/* Pulse effect for active item */}
                             {isActive && (
                               <motion.div
-                                className="absolute inset-0 rounded-full border-2 border-blue-400"
+                                className="absolute inset-0 rounded-full border-2 border-primary"
                                 animate={{ scale: [1, 1.5, 1], opacity: [1, 0, 1] }}
                                 transition={{ duration: 2, repeat: Infinity }}
                               />
@@ -164,9 +164,9 @@ export const BeyondCode = () => {
                       {/* Center Crosshair */}
                       <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
                         <div className="relative">
-                          <Radar className="w-6 h-6 text-blue-400/60" />
+                          <Radar className="w-6 h-6 text-primary/60" />
                           <div className="absolute inset-0 flex items-center justify-center">
-                            <div className="w-1 h-1 bg-blue-400 rounded-full animate-ping" />
+                            <div className="w-1 h-1 bg-primary rounded-full animate-ping" />
                           </div>
                         </div>
                       </div>
@@ -174,22 +174,22 @@ export const BeyondCode = () => {
                   </div>
 
                   {/* Status Bar */}
-                  <div className="absolute bottom-0 left-0 right-0 h-12 bg-gradient-to-r from-slate-800/90 to-slate-700/90 rounded-b-2xl border-t border-primary/30 flex items-center justify-between px-4">
+                  <div className="absolute bottom-0 left-0 right-0 h-12 bg-gradient-to-r from-card/95 to-card/90 rounded-b-2xl border-t border-border/30 flex items-center justify-between px-4">
                     <div className="flex items-center gap-2">
-                      <div className="w-2 h-2 bg-green-400 rounded-full animate-pulse" />
-                      <span className="text-xs font-mono text-green-400">ONLINE</span>
+                      <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse" />
+                      <span className="text-xs font-mono text-green-600 dark:text-green-400">ONLINE</span>
                     </div>
-                    <div className="text-xs font-mono text-blue-400/80">
+                    <div className="text-xs font-mono text-primary">
                       {activeItem.code}
                     </div>
                   </div>
                 </div>
 
                 {/* Corner Details */}
-                <div className="absolute -top-2 -left-2 w-4 h-4 border-l-2 border-t-2 border-blue-400/50" />
-                <div className="absolute -top-2 -right-2 w-4 h-4 border-r-2 border-t-2 border-blue-400/50" />
-                <div className="absolute -bottom-2 -left-2 w-4 h-4 border-l-2 border-b-2 border-blue-400/50" />
-                <div className="absolute -bottom-2 -right-2 w-4 h-4 border-r-2 border-b-2 border-blue-400/50" />
+                <div className="absolute -top-2 -left-2 w-4 h-4 border-l-2 border-t-2 border-primary/50" />
+                <div className="absolute -top-2 -right-2 w-4 h-4 border-r-2 border-t-2 border-primary/50" />
+                <div className="absolute -bottom-2 -left-2 w-4 h-4 border-l-2 border-b-2 border-primary/50" />
+                <div className="absolute -bottom-2 -right-2 w-4 h-4 border-r-2 border-b-2 border-primary/50" />
               </div>
             </div>
 
@@ -213,7 +213,7 @@ export const BeyondCode = () => {
                         <div className="flex-1">
                           <div className="flex items-center gap-2">
                             <h3 className="text-xl font-bold">{activeItem.title}</h3>
-                            <span className="text-xs font-mono bg-blue-500/20 text-blue-400 px-2 py-1 rounded">
+                            <span className="text-xs font-mono bg-primary/20 text-primary px-2 py-1 rounded">
                               {activeItem.code}
                             </span>
                           </div>
@@ -251,11 +251,11 @@ export const BeyondCode = () => {
                 initial={{ opacity: 0, y: 20 }}
                 whileInView={{ opacity: 1, y: 0 }}
                 viewport={{ once: true }}
-                className="p-4 rounded-xl bg-gradient-to-br from-slate-900/50 to-slate-800/50 border border-blue-400/20 backdrop-blur-sm"
+                className="p-4 rounded-xl bg-gradient-to-br from-card/80 to-card/60 border border-border/30 backdrop-blur-sm"
               >
                 <div className="flex items-center gap-2 mb-2">
-                  <Navigation className="w-4 h-4 text-blue-400" />
-                  <span className="text-sm font-mono text-blue-400 tracking-wider">CONTROL PANEL</span>
+                  <Navigation className="w-4 h-4 text-primary" />
+                  <span className="text-sm font-mono text-primary tracking-wider">CONTROL PANEL</span>
                 </div>
                 <p className="text-sm text-muted-foreground">
                   Click on any radar blip to lock onto that interest. 

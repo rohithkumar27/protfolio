@@ -101,7 +101,7 @@ export const StoryHero = () => {
           {[
             { number: "1M+", label: "Users Served", desc: "Enterprise & startup systems" },
             { number: "30.6%", label: "Better Retrieval", desc: "Legal RAG system" },
-            { number: "300+", label: "Teams Competed", desc: "HackUMass winner" },
+            { number: "🏆", label: "HackUMass XIII Winner", desc: "Selected among 300+ teams" },
             { number: "🏆", label: "JEE Rank 1295", desc: "All India achievement" },
           ].map((stat, index) => (
             <motion.div

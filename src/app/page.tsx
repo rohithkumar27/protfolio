@@ -14,6 +14,7 @@ const StoryHero = dynamic(() => import("@/components/story-hero").then(mod => mo
 const MyStory = dynamic(() => import("@/components/my-story").then(mod => mod.MyStory), { ssr: false });
 const ProjectStories = dynamic(() => import("@/components/project-stories").then(mod => mod.ProjectStories), { ssr: false });
 const BeyondCode = dynamic(() => import("@/components/beyond-code").then(mod => mod.BeyondCode), { ssr: false });
+const TimelineMap = dynamic(() => import("@/components/timeline-map").then(mod => mod.default), { ssr: false });
 
 import { DATA } from "@/data/resume";
 
@@ -31,62 +32,19 @@ export default function Page() {
       {/* Project Stories */}
       <ProjectStories />
 
-      {/* Experience Section - Simplified */}
-      <section id="experience" className="mb-section-lg">
+      {/* Timeline Map - Combined Experience & Education */}
+      <section id="journey" className="mb-section-lg">
         <div className="space-y-8">
           <BlurFade delay={BLUR_FADE_DELAY * 17}>
             <div className="text-center space-y-4">
-              <h2 className="text-3xl md:text-4xl font-bold">Professional Journey</h2>
+              <h2 className="text-3xl md:text-4xl font-bold">My Journey</h2>
               <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-                From startup founding engineer to enterprise systems, here's where I've applied my skills across different scales and environments.
+                From academic foundations to professional milestones - a visual map of my path through technology and innovation.
               </p>
             </div>
           </BlurFade>
-          <div className="divide-y divide-border/30 max-w-3xl mx-auto">
-            {DATA.technicalExperience.map((work, id) => (
-              <BlurFade key={work.company} delay={BLUR_FADE_DELAY * 18 + id * 0.02}>
-                <TimelineItem
-                  logoUrl={work.logoUrl}
-                  altText={work.company}
-                  title={work.company}
-                  subtitle={work.title}
-                  href={work.href}
-                  badges={work.badges}
-                  period={`${work.start} - ${work.end ?? "Present"}`}
-                  bullets={work.bullets}
-                  isLast={id === DATA.technicalExperience.length - 1}
-                />
-              </BlurFade>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Education Section - Simplified */}
-      <section id="education" className="mb-section-lg">
-        <div className="space-y-8">
-          <BlurFade delay={BLUR_FADE_DELAY * 19}>
-            <div className="text-center space-y-4">
-              <h2 className="text-3xl md:text-4xl font-bold">Education</h2>
-              <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-                The academic foundation that shaped my engineering mindset.
-              </p>
-            </div>
-          </BlurFade>
-          <div className="divide-y divide-border/30 max-w-3xl mx-auto">
-            {DATA.education.map((education, id) => (
-              <BlurFade key={education.school} delay={BLUR_FADE_DELAY * 20 + id * 0.02}>
-                <TimelineItem
-                  logoUrl={education.logoUrl}
-                  altText={education.school}
-                  title={education.school}
-                  subtitle={education.degree}
-                  href={education.href}
-                  period={`${education.start} - ${education.end}`}
-                  isLast={id === DATA.education.length - 1}
-                />
-              </BlurFade>
-            ))}
+          <div className="max-w-4xl mx-auto">
+            <TimelineMap />
           </div>
         </div>
       </section>
