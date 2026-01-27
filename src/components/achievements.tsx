@@ -51,7 +51,7 @@ export const Achievements = () => {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ delay: index * 0.1 }}
-              className="group relative p-6 rounded-xl bg-gradient-to-br from-background/50 to-background/30 border border-border/50 backdrop-blur-sm hover:border-border/80 transition-all duration-300"
+              className="group relative p-6 rounded-xl bg-card/90 border border-border/50 mobile-blur-fix hover:border-border/80 transition-all duration-300"
             >
               <div className="space-y-4">
                 <div className="flex items-center justify-between">

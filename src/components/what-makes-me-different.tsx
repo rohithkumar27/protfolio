@@ -77,7 +77,7 @@ export const WhatMakesMeDifferent = () => {
                 viewport={{ once: true }}
                 transition={{ delay: index * 0.1 }}
                 whileHover={{ y: -5 }}
-                className="group relative p-6 rounded-xl bg-gradient-to-br from-card/80 to-card/40 border border-border/50 backdrop-blur-sm hover:shadow-xl transition-all duration-300"
+                className="group relative p-6 rounded-xl bg-card/90 border border-border/50 mobile-blur-fix hover:shadow-xl transition-all duration-300"
               >
                 {/* Background Gradient */}
                 <div className={`absolute inset-0 bg-gradient-to-br ${item.color} opacity-0 group-hover:opacity-5 rounded-xl transition-opacity duration-300`} />

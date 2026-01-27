@@ -1,26 +1,48 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { ReactNode } from "react";
+import { ReactNode, useEffect, useState } from "react";
 
 interface RevolvingContentWrapperProps {
   children: ReactNode;
 }
 
 export const RevolvingContentWrapper = ({ children }: RevolvingContentWrapperProps) => {
+  const [isMobile, setIsMobile] = useState(false);
+
+  useEffect(() => {
+    const checkMobile = () => {
+      setIsMobile(window.innerWidth < 768);
+    };
+    
+    checkMobile();
+    window.addEventListener('resize', checkMobile);
+    return () => window.removeEventListener('resize', checkMobile);
+  }, []);
+
+  // Disable complex animations on mobile
+  if (isMobile) {
+    return (
+      <div className="relative" style={{ zIndex: 10 }}>
+        {children}
+      </div>
+    );
+  }
+
   return (
     <motion.div
-      className="relative z-10"
+      className="relative"
       style={{
         perspective: "1000px",
         transformStyle: "preserve-3d",
+        zIndex: 10
       }}
       animate={{
-        rotateY: [0, 2, 0, -2, 0], // Subtle Y-axis rotation
-        rotateX: [0, 1, 0, -1, 0], // Subtle X-axis rotation
+        rotateY: [0, 1, 0, -1, 0], // Reduced rotation
+        rotateX: [0, 0.5, 0, -0.5, 0], // Reduced rotation
       }}
       transition={{
-        duration: 20,
+        duration: 25, // Slower animation
         repeat: Infinity,
         ease: "easeInOut",
       }}
@@ -28,20 +50,20 @@ export const RevolvingContentWrapper = ({ children }: RevolvingContentWrapperPro
       <motion.div
         className="relative"
         animate={{
-          y: [0, -10, 0, 10, 0], // Gentle floating motion
+          y: [0, -5, 0, 5, 0], // Reduced floating motion
         }}
         transition={{
-          duration: 15,
+          duration: 18, // Slower animation
           repeat: Infinity,
           ease: "easeInOut",
         }}
       >
         <motion.div
           animate={{
-            scale: [1, 1.005, 1, 0.995, 1], // Very subtle breathing effect
+            scale: [1, 1.002, 1, 0.998, 1], // Much more subtle breathing
           }}
           transition={{
-            duration: 12,
+            duration: 15, // Slower animation
             repeat: Infinity,
             ease: "easeInOut",
           }}

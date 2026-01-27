@@ -117,7 +117,7 @@ const TimelineMap = () => {
   ].sort((a, b) => a.startYear - b.startYear);
 
   return (
-    <div className="relative min-h-[800px] bg-gradient-to-b from-slate-900/20 to-slate-800/10 rounded-2xl border border-primary/20 backdrop-blur-sm overflow-hidden">
+    <div className="relative min-h-[800px] bg-gradient-to-b from-slate-900/30 to-slate-800/20 rounded-2xl border border-primary/20 mobile-blur-fix overflow-hidden">
       {/* Space Background Elements */}
       <div className="absolute inset-0">
         {/* Stars */}

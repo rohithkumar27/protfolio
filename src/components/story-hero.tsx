@@ -102,12 +102,12 @@ export const StoryHero = () => {
             { number: "1M+", label: "Users Served", desc: "Enterprise & startup systems" },
             { number: "30.6%", label: "Better Retrieval", desc: "Legal RAG system" },
             { number: "🏆", label: "HackUMass XIII Winner", desc: "Selected among 300+ teams" },
-            { number: "🏆", label: "JEE Rank 1295", desc: "All India achievement" },
+            { number: "🏆", label: "IIT JEE Rank 1295", desc: "All India achievement" },
           ].map((stat, index) => (
             <motion.div
               key={stat.label}
               whileHover={{ scale: 1.05 }}
-              className="text-center p-4 rounded-lg bg-card/50 border border-border/50 backdrop-blur-sm"
+              className="text-center p-4 rounded-lg bg-card/80 border border-border/50 mobile-blur-fix"
             >
               <div className="text-2xl md:text-3xl font-bold text-primary mb-1">
                 {stat.number}

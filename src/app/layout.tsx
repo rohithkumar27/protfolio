@@ -61,17 +61,25 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+      </head>
       <body
         className={cn(
           "min-h-screen bg-background font-sans antialiased overflow-x-hidden",
           fontSans.variable
         )}
+        style={{
+          fontSize: '16px',
+          WebkitTextSizeAdjust: '100%',
+          textSizeAdjust: '100%'
+        }}
       >
         <ThemeProvider attribute="class" defaultTheme="dark" forcedTheme="dark">
           <TooltipProvider delayDuration={0}>
             <SpaceRevolvingBackground />
             <RevolvingContentWrapper>
-              <div className="max-w-2xl mx-auto px-container-padding relative z-10">
+              <div className="max-w-2xl mx-auto px-container-padding relative mobile-z-fix" style={{ zIndex: 100 }}>
                 {children}
               </div>
             </RevolvingContentWrapper>

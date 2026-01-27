@@ -148,7 +148,7 @@ export const ProjectStories = () => {
               <div className="grid md:grid-cols-3 gap-8">
                 {/* Project Info */}
                 <div className="md:col-span-1 space-y-6">
-                  <div className="relative p-6 rounded-xl bg-gradient-to-br from-card/80 to-card/40 border border-border/50 backdrop-blur-sm">
+                  <div className="relative p-6 rounded-xl bg-card/90 border border-border/50 mobile-blur-fix">
                     <div className={`absolute inset-0 bg-gradient-to-br ${activeStory.color} opacity-5 rounded-xl`} />
                     
                     <div className="relative space-y-4">

@@ -70,10 +70,10 @@ export const MyStory = () => {
                   whileInView={{ opacity: 1, y: 0 }}
                   viewport={{ once: true }}
                   transition={{ delay: index * 0.1 }}
-                  className={`flex-1 min-w-[200px] max-w-[300px] p-4 rounded-xl border transition-all duration-300 ${
+                  className={`flex-1 min-w-[200px] max-w-[300px] p-4 rounded-xl border transition-all duration-300 mobile-blur-fix ${
                     isActive 
-                      ? "bg-primary/10 border-primary/30 shadow-lg transform scale-105" 
-                      : "bg-card/50 border-border/50 hover:bg-card/80 hover:scale-102"
+                      ? "bg-primary/20 border-primary/30 shadow-lg transform scale-105" 
+                      : "bg-card/90 border-border/50 hover:bg-card hover:scale-102"
                   }`}
                 >
                   <div className="flex flex-col items-center gap-3 text-center">
@@ -117,7 +117,7 @@ export const MyStory = () => {
                   transition={{ duration: 0.3 }}
                   className="space-y-6"
                 >
-                  <div className="relative p-8 rounded-2xl bg-gradient-to-br from-card/80 to-card/40 border border-border/50 backdrop-blur-sm">
+                  <div className="relative p-8 rounded-2xl bg-card/90 border border-border/50 mobile-blur-fix">
                     <div className={`absolute inset-0 bg-gradient-to-br ${chapter.color} opacity-5 rounded-2xl`} />
                     
                     <div className="relative space-y-6">
